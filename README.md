@@ -3,7 +3,8 @@ Sonic TI-Blast is a game written in TI-BASIC for the TI-83+/TI-84+/TI-84+ CE gra
 -----
 Collect rings and save the Flickies in Sonic TI-Blast!
 
-STORY:
+STORY
+---
 A few years after the events of Sonic 3D Blast, Dr. Eggman has returned to Flickies' Island with a new plan: 
 Trap the Flickies in an alternate dimension, and siphon their power!
 Unfortunately for Eggman, Sonic happened to be visiting the island at the time.
@@ -14,8 +15,9 @@ The Big Ring dissapeared, along with Eggman and the Flicky.
 
 Sonic couldn't just sit there and let Eggman get away- He had to save his friends!
 And so it begins...
------
+
 How to run this game on your TI-83+/TI-84+:
+--
 1: Send BLAST (BLASTMP if you have OS 2.53MP or higher) to Archive if you plan to use MirageOS/DoorsCS7, otheriwise send BLAST to RAM. (FR: Envoyer BLAST à RAM ou à ARCHIVE pour MirageOS/DoorsCS7)
 2: Send Pic8 to RAM. (FR: Envoie Pic8 à RAM)
 3: Run prgmBLAST. (FR: fonctionner prgmBLAST) For best results on calculators with OS 2.5.3MP or later, make sure to run this program while in classic mode.
@@ -25,7 +27,8 @@ How to run this game on your TI-84+ CE:
 1: Send BLASTCE to RAM.
 2: Run prgmBLASTCE.
 
-INSTRUCTIONS:
+INSTRUCTIONS
+--
 At the title, Press Enter to open the main menu. You should see four options:
 1: Play - Play Sonic TI-Blast.
 2: Reset - Deletes all save data. (FR: supprimer tout enregistrements)
@@ -34,6 +37,7 @@ At the title, Press Enter to open the main menu. You should see four options:
 5: Hard Mode - Play a harder version of Sonic TI-Blast.
 
 --HOW TO PLAY--
+--
 In all acts: Use the arrow keys to move Sonic, represented by "S".
  Act 1: Collect Rings
  - Grab rings (o)by running into them. 
@@ -56,6 +60,7 @@ In all acts: Use the arrow keys to move Sonic, represented by "S".
  - Some stages will be longer, some harder, and all have no do-overs. 
 
 --TIPS AND TRICKS--
+--
  - If you enter the Big Ring in Rusty Ruins Act 2, you can grab a Chaos Emerald and enough rings to open the Flicky vault. 
  - Collect all the Chaos emeralds to get the good ending!
  - Opening a Flicky vault takes at least 5*Zone number rings. (5 on Rusty Ruins, 10 on Panel Panic Zone, etc.)
@@ -68,15 +73,5 @@ I began work on this game in September of 2020, wanting to make a new game in TI
 This is my second program to be released publicly, so if you have any comments/suggestions/questions/etc.,
 you can email me at weedleninja88@gmail.com or message me on cemetech.net.
 
-NOTE:
-BLASTCE is a beta build, and has issues in some levels.
-
-NEW/NOUVEAU:
-(V1.2.3A)
-- Hard Mode
-- Bug Fixes
-- CE Port
-
-Sonic TI-Blast Version V1.2.3A
-Game by Ben F. (Oxiti8)
+Game by Oxiti8
 Sonic is owned by SEGA.
