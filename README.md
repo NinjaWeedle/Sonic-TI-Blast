@@ -3,6 +3,18 @@ Sonic TI-Blast is a game written in TI-BASIC for the TI-83+/TI-84+/TI-84+ CE gra
 -----
 Collect rings and save the Flickies in Sonic TI-Blast!
 
+How to run this game:
+--
+TI-83+/TI-84+:
+1: Send BLAST (BLASTMP if you have OS 2.53MP or higher) to Archive if you plan to use MirageOS/DoorsCS7, otheriwise send BLAST to RAM. (FR: Envoyer BLAST à RAM ou à ARCHIVE pour MirageOS/DoorsCS7)
+2: Send Pic8.8xi to RAM. (FR: Envoie Pic8 à RAM)
+3: Run prgmBLAST. (FR: fonctionner prgmBLAST) For best results on calculators with OS 2.5.3MP or later, make sure to run this program while in classic mode.
+If you followed these steps correctly, you should see a title screen. 
+
+TI-84+ CE:
+1: Send BLASTCE to RAM.
+2: Run prgmBLASTCE.
+
 STORY
 ---
 A few years after the events of Sonic 3D Blast, Dr. Eggman has returned to Flickies' Island with a new plan: 
@@ -15,17 +27,6 @@ The Big Ring dissapeared, along with Eggman and the Flicky.
 
 Sonic couldn't just sit there and let Eggman get away- He had to save his friends!
 And so it begins...
-
-How to run this game on your TI-83+/TI-84+:
---
-1: Send BLAST (BLASTMP if you have OS 2.53MP or higher) to Archive if you plan to use MirageOS/DoorsCS7, otheriwise send BLAST to RAM. (FR: Envoyer BLAST à RAM ou à ARCHIVE pour MirageOS/DoorsCS7)
-2: Send Pic8 to RAM. (FR: Envoie Pic8 à RAM)
-3: Run prgmBLAST. (FR: fonctionner prgmBLAST) For best results on calculators with OS 2.5.3MP or later, make sure to run this program while in classic mode.
-If you followed these steps correctly, you should see a title screen. 
-
-How to run this game on your TI-84+ CE:
-1: Send BLASTCE to RAM.
-2: Run prgmBLASTCE.
 
 INSTRUCTIONS
 --
@@ -64,9 +65,6 @@ In all acts: Use the arrow keys to move Sonic, represented by "S".
  - If you enter the Big Ring in Rusty Ruins Act 2, you can grab a Chaos Emerald and enough rings to open the Flicky vault. 
  - Collect all the Chaos emeralds to get the good ending!
  - Opening a Flicky vault takes at least 5*Zone number rings. (5 on Rusty Ruins, 10 on Panel Panic Zone, etc.)
-
-COMING SOON:
-- Panel Panic Zone Act 2(FR: Panneau Panique Zone)
 
 ABOUT:
 I began work on this game in September of 2020, wanting to make a new game in TI-BASIC.
