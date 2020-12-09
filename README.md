@@ -6,9 +6,9 @@ Collect rings and save the Flickies in Sonic TI-Blast!
 How to run this game:
 --
 TI-83+/TI-84+:
-1: Send BLAST (BLASTMP if you have OS 2.53MP or higher) to Archive if you plan to use MirageOS/DoorsCS7, otheriwise send BLAST to RAM. (FR: Envoyer BLAST à RAM ou à ARCHIVE pour MirageOS/DoorsCS7)
-2: Send Pic8.8xi to RAM. (FR: Envoie Pic8 à RAM)
-3: Run prgmBLAST. (FR: fonctionner prgmBLAST) For best results on calculators with OS 2.5.3MP or later, make sure to run this program while in classic mode.
+1: Send BLAST (or BLASTMP if you have OS 2.53MP or higher) to archive if you plan to use MirageOS/DoorsCS7, otheriwise send BLAST to RAM. 
+2: Send Pic8.8xi to RAM.
+3: Run prgmBLAST. For best results on calculators with OS 2.5.3MP or later, make sure to run this program while in classic mode or use BLASTMP instead of BLAST.
 If you followed these steps correctly, you should see a title screen. 
 
 TI-84+ CE:
@@ -16,7 +16,7 @@ TI-84+ CE:
 2: Run prgmBLASTCE.
 
 STORY
----
+--
 A few years after the events of Sonic 3D Blast, Dr. Eggman has returned to Flickies' Island with a new plan: 
 Trap the Flickies in an alternate dimension, and siphon their power!
 Unfortunately for Eggman, Sonic happened to be visiting the island at the time.
@@ -32,7 +32,7 @@ INSTRUCTIONS
 --
 At the title, Press Enter to open the main menu. You should see four options:
 1: Play - Play Sonic TI-Blast.
-2: Reset - Deletes all save data. (FR: supprimer tout enregistrements)
+2: Reset - Deletes all save data. 
 3: EXIT - Exits the game.
 4: Endless - Collect rings endlessly. Press 2nd to exit Endless mode.
 5: Hard Mode - Play a harder version of Sonic TI-Blast.
@@ -66,7 +66,8 @@ In all acts: Use the arrow keys to move Sonic, represented by "S".
  - Collect all the Chaos emeralds to get the good ending!
  - Opening a Flicky vault takes at least 5*Zone number rings. (5 on Rusty Ruins, 10 on Panel Panic Zone, etc.)
 
-ABOUT:
+About
+--
 I began work on this game in September of 2020, wanting to make a new game in TI-BASIC.
 This is my second program to be released publicly, so if you have any comments/suggestions/questions/etc.,
 you can email me at weedleninja88@gmail.com or message me on cemetech.net.
