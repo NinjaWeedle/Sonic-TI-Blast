@@ -6,13 +6,13 @@ Collect rings and save the Flickies in Sonic TI-Blast!
 How to run this game:
 --
 - TI-83+/TI-84+:
-- 1: Send BLAST (or BLASTMP if you have OS 2.53MP or higher) to archive if you plan to use MirageOS/DoorsCS7, otheriwise send BLAST to RAM. 
-- 2: Send Pic8.8xi to RAM.
-- 3: Run prgmBLAST. For best results on calculators with OS 2.5.3MP or later, make sure to run this program while in classic mode or use BLASTMP instead of BLAST.
+1: Send BLAST (or BLASTMP if you have OS 2.53MP or higher) to archive if you plan to use MirageOS/DoorsCS7, otheriwise send BLAST to RAM. 
+2: Send Pic8.8xi to RAM.
+3: Run prgmBLAST. For best results on calculators with OS 2.5.3MP or later, make sure to run this program while in classic mode or use BLASTMP instead of BLAST.
 
 - TI-84+ CE:
-- 1: Send BLASTCE to RAM.
-- 2: Run prgmBLASTCE.
+1: Send BLASTCE to RAM.
+2: Run prgmBLASTCE.
 
 STORY
 --
@@ -72,4 +72,4 @@ This is my second program to be released publicly, so if you have any comments/s
 you can email me at weedleninja88@gmail.com or message me on cemetech.net.
 
 Game by Oxiti8.
-Sonic is owned by SEGA.
+ Sonic is owned by SEGA.
