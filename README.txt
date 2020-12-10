@@ -5,7 +5,7 @@ A few years after the events of Sonic 3D Blast, Dr. Eggman has returned to Flick
 Trap the Flickies in an alternate dimension, and siphon their power!
 Unfortunately for Eggman, Sonic happened to be visiting the island at the time.
 Sonic was confused when he couldn't find his Flicky friends at first.
-However, while looking for the Flickies in Rusty Ruins, Sonic saw Eggman jump into a Big Ring- while holding a Flicky!
+However, while looking for the Flickies in Rusty Ruins, Sonic saw Eggman jump into a Big Ring- holding a Flicky!
 No less than a second after seeing this did Sonic immediately give chase, but he was too late.
 The Big Ring dissapeared, along with Eggman and the Flicky.
 
