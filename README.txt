@@ -71,7 +71,8 @@ BLASTCE is an experimental build, and has issues in some levels.
 NEW/NOUVEAU:
 (V1.3.0)
 - Panel Panic Zone Act 2
-- Minor changes to text
+- Various text changes
+- Colored text on act transition screens (CE only)
 
 
 Sonic TI-Blast Version V1.3.0
