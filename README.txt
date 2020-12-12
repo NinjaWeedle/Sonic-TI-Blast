@@ -5,7 +5,7 @@ A few years after the events of Sonic 3D Blast, Dr. Eggman has returned to Flick
 Trap the Flickies in an alternate dimension, and siphon their power!
 Unfortunately for Eggman, Sonic happened to be visiting the island at the time.
 Sonic was confused when he couldn't find his Flicky friends at first.
-However, while looking for the Flickies in Rusty Ruins, Sonic saw Eggman jump into a Big Ring- holding a Flicky!
+However, while looking for the Flickies in Rusty Ruins, Sonic saw Eggman jump into a Big Ring- while holding a Flicky!
 No less than a second after seeing this did Sonic immediately give chase, but he was too late.
 The Big Ring dissapeared, along with Eggman and the Flicky.
 
@@ -57,11 +57,8 @@ Endless mode:
 
 --TIPS AND TRICKS--
  - If you enter the Big Ring in Rusty Ruins Act 2, you can grab a Chaos Emerald and enough rings to open the Flicky vault. 
- - Collect all the Chaos emeralds to get the good ending!
- - Opening a Flicky vault takes at least 5*Zone number rings. (5 on Rusty Ruins, 10 on Panel Panic Zone, etc.)
-
-COMING SOON:
-- Panel Panic Zone Act 2(FR: Panneau Panique Zone)
+ - Collect all the Chaos emeralds (3 to be exact) to get the good ending!
+ - Opening a Flicky vault takes at least 5*[Zone number] rings. (5 on Rusty Ruins, 10 on Panel Panic Zone, etc.)
 
 ABOUT:
 I began work on this game in September of 2020, wanting to make a new game in TI-BASIC.
@@ -72,10 +69,11 @@ NOTE:
 BLASTCE is an experimental build, and has issues in some levels.
 
 NEW/NOUVEAU:
-(V1.2.4)
-- Minor Quality of life improvements
+(V1.3.0)
+- Panel Panic Zone Act 2
+- Minor changes to text
 
 
-Sonic TI-Blast Version V1.2.4
-Game by Ben F. (Oxiti8)
+Sonic TI-Blast Version V1.3.0
+Game by Ben F. (oxiti8)
 Sonic is owned by SEGA.
