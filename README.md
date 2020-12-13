@@ -10,7 +10,7 @@ How to run this game:
 2: Send Pic8.8xi to RAM.
 3: Run prgmBLAST. For best results on calculators with OS 2.5.3MP or later, make sure to run this program while in classic mode or use BLASTMP instead of BLAST.
 
-- TI-84+ CE:
+- TI-84+ CSE/TI-84+ CE:
 1: Send BLASTCE to RAM.
 2: Run prgmBLASTCE.
 
