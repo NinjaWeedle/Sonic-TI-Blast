@@ -69,12 +69,11 @@ NOTE:
 BLASTCE is an experimental build, and has issues in some levels.
 
 NEW/NOUVEAU:
-(V1.3.0)
-- Panel Panic Zone Act 2
-- Various text changes
-- Colored text on act transition screens (CE only)
+(V1.3.1)
+- Fixed a bug causing an error to occur one any zone in the CE version
+- Minor optimizations
 
 
-Sonic TI-Blast Version V1.3.0
+Sonic TI-Blast Version V1.3.1
 Game by Ben F. (oxiti8)
 Sonic is owned by SEGA.
