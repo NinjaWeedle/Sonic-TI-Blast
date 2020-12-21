@@ -25,7 +25,7 @@ At the title, Press Enter to open the main menu. You should see four options:
 
 --HOW TO PLAY--
 --
-In all acts: Use the arrow keys to move Sonic, represented by "S". More details on gameplay, as well as the story and tips and tricks can be found in README.txt.
+In all acts: Use the arrow keys to move Sonic, represented by "S". More details on gameplay, as well as the story and tips and tricks can be found in README.txt and the Sonic TI-Blast wiki here on GitHub.
 
 About
 --
