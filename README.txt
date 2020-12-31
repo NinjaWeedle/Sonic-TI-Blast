@@ -69,11 +69,10 @@ NOTE:
 BLASTCE is an experimental build, and has issues in some levels.
 
 NEW/NOUVEAU:
-(V1.3.1)
-- Fixed a bug causing an error to occur one any zone in the CE version
-- Minor optimizations
+(V1.3.2)
+- Special stages now deduct the number of rings required to enter them. (While still giving you enough rings so as to not get softlocked)
+- It is no longer possible to farm more than 3 chaos emeralds in PPZ act 2.
 
-
-Sonic TI-Blast Version V1.3.1
+Sonic TI-Blast Version V1.3.2
 Game by Ben F. (oxiti8)
 Sonic is owned by SEGA.
