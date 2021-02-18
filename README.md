@@ -33,4 +33,4 @@ I began work on this game in September of 2020, wanting to make a new game in TI
 This is my second program to be released publicly, so if you have any comments/suggestions/questions/etc.,
 you can email me at weedleninja88@gmail.com or message me on cemetech.net.
 
-Game by Oxiti8. Sonic is owned by SEGA.
+Game by Oxiti8. Sonic is owned by SEGA. THIS SOFTWARE SHOULD NOT BE SOLD, IN WHOLE OR IN PART.
